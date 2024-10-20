@@ -1,2 +1,3 @@
 # Fraud_apps_detection_using_sentiment_analysis
-This project performs sentiment analysis on review data of mobile applications to identify potential fraud using natural language processing techniques. It utilizes a combination of text preprocessing, Naive Bayes classification, and confusion matrix evaluation to assess the accuracy of fraud detection.
+This project aims to detect fraudulent mobile applications by analyzing user reviews from the Google Play Store. We utilize the Naive Bayes classifier, a probabilistic model based on Bayes' theorem, which is well-suited for text classification tasks like sentiment analysis. By preprocessing the textual content, we train the Naive Bayes classifier to classify reviews into positive, neutral, and negative sentiments. 
+This methodology strikes a balance between performance and computational efficiency, making it effective for this application. Contributions are welcome!
